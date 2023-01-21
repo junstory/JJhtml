@@ -1,3 +1,25 @@
+div {
+    display : block;
+}
+
+#_loader{
+    padding-left: 0;
+    min-width: 320px;
+}
+
 #_sidebar {
     background-color: #aaa;
+    height: 100%;
+    width: 270px;
+    position: fixed;
+    padding: 25px 0;
+    box-sizing: border-box;
+}
+
+
+#_main {
+    clear: both;
+    padding: 0;
+    margin: 0 auto;
+
 }
